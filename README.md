@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Abdullah Orakzai (DevOps Engineer) 👋<br>🌱 1.5+ years of experience in Web Development<br>👀 Interested in automation, scalable systems, and solving challenging problems<br>💞️ Looking forward to collaborating on open-source and contributive projects in Web and DevOps<br>✨ MERN Stack, Vue.js, Linux, Git/GitHub, Docker, Kubernetes, CI/CD, Nginx, Apache, Tomcat, Grafana, Prometheus<br>📫 Want to reach me?  Visit my Linkedin Profile [LinkedIn](https://www.linkedin.com/in/your-username/) or write me at [Email](mailto:abdullahorakzai635@gmail.com)<br>
+Hi, I’m Abdullah Orakzai (DevOps Engineer) 👋<br>🌱 1.5+ years of experience in Web Development<br>👀 Interested in automation, scalable systems, and solving challenging problems<br>💞️ Looking forward to collaborating on open-source and contributive projects in Web and DevOps<br>✨ MERN Stack, Vue.js, Linux, Git/GitHub, Docker, Kubernetes, CI/CD, Nginx, Apache, Tomcat, Grafana, Prometheus<br>📫 Want to reach me?  Visit my Linkedin Profile [LinkedIn](https://www.linkedin.com/in/abdullah-yousaf-768667292/) or [Email](mailto:abdullahorakzai635@gmail.com)<br>
 
 
 ## 🌐 Socials:
